@@ -36,6 +36,10 @@
 - **설명**: 웹 디자인과 UI 작업에 유용한 색상 조합을 찾아주는 툴. 다양한 색상 팔레트를 제공하여 프로젝트에 적합한 색상 조합을 쉽게 찾을 수 있습니다.
 - **링크**: [Color Hunt 바로가기](https://colorhunt.co/)
 
+### 3. **Galileo AI**
+- **설명**: Galileo AI는 AI 기반의 디자인 도구로, 간단한 텍스트 프롬프트를 통해 UI/UX 디자인을 자동으로 생성할 수 있습니다. 디자인 프로세스를 혁신적으로 단축시켜줍니다.
+- **링크**: [Galileo AI 바로가기](https://www.usegalileo.ai/)
+
 ---
 
 ## 💻 개발 도구
@@ -60,15 +64,27 @@
 
 ## 🔗 기타 유용한 도구
 
-### 1. **Slack**
+### 1. **Claude (Anthropic Claude)**
+- **설명**: Claude는 Anthropic에서 개발한 대화형 AI 모델로, 사용자의 요청에 따라 텍스트 생성, 요약, 대화 등의 작업을 수행할 수 있습니다. 대화형 AI 도구 중 하나로 GPT 모델과 유사한 기능을 제공합니다.
+- **링크**: [Claude 바로가기](https://claude.ai/new)
+
+### 2. **퍼플렉시티 (Perplexity AI)**
+- **설명**: Perplexity AI는 GPT-3와 같은 언어 모델을 기반으로 한 검색 엔진으로, 사용자의 질문에 대해 신뢰성 높은 답변을 제공합니다. 정보의 출처를 명확하게 표기해주는 것이 특징입니다.
+- **링크**: [Perplexity AI 바로가기](https://www.perplexity.ai/)
+
+### 3. **DeepL Translator**
+- **설명**: DeepL은 고정밀 번역을 제공하는 AI 기반 번역 도구로, 문맥을 정확하게 반영하여 자연스러운 번역을 생성합니다. 여러 언어를 지원하며, 전문 용어에도 강합니다.
+- **링크**: [DeepL Translator 바로가기](https://www.deepl.com/translator)
+- 
+### 4. **Slack**
 - **설명**: 팀 간 소통 및 협업을 위한 실시간 채팅 도구. 다양한 애플리케이션과 연동하여 작업 흐름을 효율적으로 관리할 수 있습니다.
 - **링크**: [Slack 바로가기](https://slack.com)
 
-### 2. **Google Drive**
+### 5. **Google Drive**
 - **설명**: 파일 저장 및 공유를 위한 클라우드 스토리지 서비스. 팀원과 파일을 쉽게 공유하고 협업할 수 있습니다.
 - **링크**: [Google Drive 바로가기](https://drive.google.com)
 
-### 3. **noiz.io**
+### 6. **noiz.io**
 - **설명**: 백색 소음, 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능
 - **링크**: [noiz.io 바로가기](https://noiz.io/)
 ---
