@@ -59,6 +59,10 @@
 ### 8. **uiGradients**
 - **설명**: uiGradients는 트렌디한 그라데이션 색상 팔레트와 그에 맞는 CSS 코드를 제공합니다. 디자이너와 개발자들이 쉽고 빠르게 그라데이션을 적용할 수 있도록 도와줍니다.
 - **링크**: [uiGradients 바로가기](https://uigradients.com/#Turquoiseflow)
+
+### 9. **FontAwesome**
+- **설명**: FontAwesome은 웹 및 UI 디자인에서 자주 사용되는 다양한 아이콘을 제공하는 도구입니다. CSS 및 SVG 아이콘을 쉽게 사용할 수 있으며, 무료 및 유료 아이콘을 포함한 방대한 라이브러리를 제공합니다. 아이콘을 단순히 추가하는 것 외에도 크기, 색상, 애니메이션 등을 자유롭게 조정할 수 있습니다.
+- **링크**: [FontAwesome 바로가기](https://fontawesome.com/)
 ---
 
 ## 💻 개발 도구
