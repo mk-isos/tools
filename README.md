@@ -23,6 +23,7 @@
 ### 3. **Jira**
 - **설명**: 프로젝트 협업 및 관리 도구로, 스프린트 관리, 이슈 트래킹, 애자일 개발 방식에 최적화되어 있습니다.
 - **링크**: [Jira 바로가기](https://www.atlassian.com/software/jira)
+
 ---
 
 ## 🎨 디자인 도구
@@ -43,7 +44,17 @@
 - **설명**: 오픈 소스 기반의 강력한 코드 에디터로, 자동 완성, 디버깅, 플러그인(익스텐션) 기능을 지원합니다.
 - **링크**: [Visual Studio Code 바로가기](https://code.visualstudio.com)
 
+### 2. **JetBrains**
+- **설명**: 다양한 프로그래밍 언어와 프레임워크를 지원하는 강력한 IDE. IntelliJ IDEA를 포함한 여러 개발 도구가 제공됩니다.
+- **링크**: [JetBrains 바로가기](https://www.jetbrains.com/idea/)
 
+### 3. **Eclipse Foundation**
+- **설명**: 자바 개발자들에게 특히 유용한 오픈 소스 IDE로, 다양한 플러그인을 통해 확장 가능합니다.
+- **링크**: [Eclipse Foundation 바로가기](https://www.eclipse.org/)
+
+### 4. **Dev-C++**
+- **설명**: C/C++ 개발에 사용되는 무료 오픈 소스 통합 개발 환경(IDE). 간단한 C/C++ 프로젝트에 적합합니다.
+- **링크**: [Dev-C++ 바로가기](https://sourceforge.net/projects/orwelldevcpp/)
 
 ---
 
