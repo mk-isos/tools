@@ -40,6 +40,13 @@
 - **설명**: Galileo AI는 AI 기반의 디자인 도구로, 간단한 텍스트 프롬프트를 통해 UI/UX 디자인을 자동으로 생성할 수 있습니다. 디자인 프로세스를 혁신적으로 단축시켜줍니다.
 - **링크**: [Galileo AI 바로가기](https://www.usegalileo.ai/)
 
+### 4. **Midjourney**
+- **설명**: Midjourney는 텍스트 설명을 기반으로 창의적인 이미지를 생성해주는 AI 도구입니다. 사용자가 원하는 스타일이나 내용을 텍스트로 입력하면, 그에 맞는 이미지를 자동으로 만들어 줍니다.
+- **링크**: [Midjourney 바로가기](https://www.midjourney.com/)
+
+### 5. **Stable Diffusion**
+- **설명**: Stable Diffusion은 오픈 소스 AI 모델로, 텍스트 프롬프트를 기반으로 이미지를 생성하는 기능을 제공합니다. 고품질의 이미지 생성에 강력하며, 연구 및 상업적 프로젝트에 자유롭게 사용할 수 있습니다.
+- **링크**: [Stable Diffusion 바로가기](https://stability.ai/)
 ---
 
 ## 💻 개발 도구
@@ -75,7 +82,7 @@
 ### 3. **DeepL Translator**
 - **설명**: DeepL은 고정밀 번역을 제공하는 AI 기반 번역 도구로, 문맥을 정확하게 반영하여 자연스러운 번역을 생성합니다. 여러 언어를 지원하며, 전문 용어에도 강합니다.
 - **링크**: [DeepL Translator 바로가기](https://www.deepl.com/translator)
-- 
+
 ### 4. **Slack**
 - **설명**: 팀 간 소통 및 협업을 위한 실시간 채팅 도구. 다양한 애플리케이션과 연동하여 작업 흐름을 효율적으로 관리할 수 있습니다.
 - **링크**: [Slack 바로가기](https://slack.com)
@@ -87,6 +94,10 @@
 ### 6. **noiz.io**
 - **설명**: 백색 소음, 상용, 자연의 소리, 소리 믹스로 원하는 소음 조합 가능
 - **링크**: [noiz.io 바로가기](https://noiz.io/)
+
+### 7. **Brity Copilot**
+- **설명**: Brity Copilot은 삼성 SDS에서 개발한 AI 기반 비서로, 다양한 업무를 자동화하고 효율적으로 처리할 수 있도록 돕습니다. 이메일 작성, 일정 관리, 데이터 분석 등 여러 업무에 적용할 수 있습니다.
+- **링크**: [Brity Copilot 바로가기](https://www.samsungsds.com/kr/ai/brity-copilot.html)
 ---
 
 ## 🌟 기여 방법
