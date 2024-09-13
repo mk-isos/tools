@@ -47,6 +47,18 @@
 ### 5. **Stable Diffusion**
 - **설명**: Stable Diffusion은 오픈 소스 AI 모델로, 텍스트 프롬프트를 기반으로 이미지를 생성하는 기능을 제공합니다. 고품질의 이미지 생성에 강력하며, 연구 및 상업적 프로젝트에 자유롭게 사용할 수 있습니다.
 - **링크**: [Stable Diffusion 바로가기](https://stability.ai/)
+
+### 6. **OpenColor**
+- **설명**: OpenColor는 UI 디자인을 위한 심플하고 직관적인 색상 팔레트를 제공합니다. 이 팔레트는 일관된 색조를 유지하면서 다양한 밝기 단계를 제공해, UI/UX 디자인에 매우 유용합니다.
+- **링크**: [OpenColor 바로가기](https://yeun.github.io/open-color/)
+
+### 7. **FlatUIColors**
+- **설명**: FlatUIColors는 평면 디자인(플랫 디자인)을 위해 최적화된 색상 조합을 제공합니다. 각종 UI 디자인 작업에서 심플하고 모던한 색상 조합을 찾을 때 유용합니다.
+- **링크**: [FlatUIColors 바로가기](https://flatuicolors.com/)
+
+### 8. **uiGradients**
+- **설명**: uiGradients는 트렌디한 그라데이션 색상 팔레트와 그에 맞는 CSS 코드를 제공합니다. 디자이너와 개발자들이 쉽고 빠르게 그라데이션을 적용할 수 있도록 도와줍니다.
+- **링크**: [uiGradients 바로가기](https://uigradients.com/#Turquoiseflow)
 ---
 
 ## 💻 개발 도구
