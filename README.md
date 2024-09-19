@@ -179,7 +179,7 @@
 - [LinkedIn 공유하기](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/your-repo/tools)
 - [Instagram 공유하기](https://www.instagram.com/?url=https://github.com/your-repo/tools)
 - [Threads 공유하기](https://www.threads.net/?url=https://github.com/your-repo/tools)
-- [카카오톡 공유하기](https://sharer.kakao.com/talk/friends/picker/link?url=https://github.com/your-repo/tools)
+- 수정중! [카카오톡 공유하기](https://sharer.kakao.com/talk/friends/picker/link?url=https://github.com/your-repo/tools)
 - [Slack 공유하기](https://slack.com/intl/en-kr/share?url=https://github.com/your-repo/tools)
 
 
