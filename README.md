@@ -41,6 +41,18 @@
 - **설명**: Forest는 사용자가 집중력을 유지할 수 있도록 돕는 시간 관리 앱입니다. 타이머를 설정하고, 설정한 시간 동안 스마트폰 사용을 자제하며 가상의 나무를 심을 수 있습니다.
 - **링크**: [Forest 바로가기](https://www.forestapp.cc/)
 
+### 8. **3시간만 일하게 해주는 AI 툴**
+**다양한 분야에서 생산성을 극대화할 수 있습니다.**
+
+- **영상 제작 - PIKA**: [PIKA 바로가기](https://www.pika.art/)
+- **글쓰기 - Claude**: [Claude 바로가기](https://claude.ai/)
+- **더빙 - Heygen**: [Heygen 바로가기](https://www.heygen.com/)
+- **아바타 생성 - Studio D-ID**: [Studio D-ID 바로가기](https://www.studiod-id.com/)
+- **PPT 제작 - Gamma**: [Gamma 바로가기](https://gamma.app/)
+- **음악 제작 - Udio**: [Udio 바로가기](https://www.udio.com/)
+- **로고 제작 - Ideogram**: [Ideogram 바로가기](https://ideogram.ai/)
+- **업무 자동화 - MAKE**: [MAKE 바로가기](https://www.make.com/)
+- **댓글, DM 자동화 - Manychat**: [Manychat 바로가기](https://manychat.com/)
 
 ---
 
