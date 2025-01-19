@@ -239,6 +239,16 @@
 - **C++ Reference**: [cppreference.com](https://en.cppreference.com/w/cpp)
 - **Cplusplus.com**: [cplusplus.com](https://cplusplus.com)
 
+### 3. **C#**
+- **예제로 배우는 C#**: [csharpstudy.com](https://www.csharpstudy.com/)
+- **Microsoft (C#)**: [learn.microsoft.com](https://learn.microsoft.com/ko-kr/dotnet/csharp/)
+
+### 4. **Python**
+- **코딩도장 (Python)**: [dojang.io](https://dojang.io/course/view.php?id=7)
+- **점프 투 파이썬**: [wikidocs.net](https://wikidocs.net/book/1)
+- **파이썬 자습서**: [docs.python.org (https://docs.python.org/ko/3.13/tutorial/index.html)
+
+
 ---
 
 ## 🌟 기여 방법
