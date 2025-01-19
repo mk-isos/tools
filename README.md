@@ -248,6 +248,17 @@
 - **점프 투 파이썬**: [wikidocs.net](https://wikidocs.net/book/1)
 - **파이썬 자습서**: [docs.python.org (https://docs.python.org/ko/3.13/tutorial/index.html)
 
+### 5. **JavaScript**
+- **VanillaJS**: [vanilla-js.com](http://vanilla-js.com/)
+- **Modern JavaScript**: [javascript.info](https://ko.javascript.info/)
+- **Mozilla JavaScript Guide**: [developer.mozilla.org](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide)
+- **TCP School (JavaScript)**: [tcpschool.com](https://www.tcpschool.com/javascript/intro)
+
+### 6. **TypeScript**
+- **TypeScript 문서**: [typescriptlang.org](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- **타입스크립트 핸드북**: [joshua1988.github.io](https://joshua1988.github.io/ts/intro.html)
+
+
 
 ---
 
