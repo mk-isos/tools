@@ -8,6 +8,7 @@
 3. [💻 개발 도구](#-개발-도구)
 4. [🔗 기타 유용한 도구](#-기타-유용한-도구)
 5. [📊 데이터 도구](#-데이터-도구)
+6. [📘 프로그래밍 언어 학습 도구](#-프로그래밍-언어-학습-도구)
 
 ---
 
@@ -219,6 +220,24 @@
 ### 4. **AI Hub**
 - **설명**: AI Hub는 다양한 인공지능 관련 데이터를 제공하는 플랫폼으로, 이미지, 텍스트, 음성, 비디오 데이터셋을 제공하여 AI 모델 훈련에 필요한 다양한 데이터를 쉽게 구할 수 있습니다.
 - **링크**: [AI Hub 바로가기](https://www.aihub.or.kr/)
+
+---
+
+## 📘 프로그래밍 언어 학습 도구
+
+프로그래밍 언어 학습을 위한 다양한 사이트 및 자료를 모아놓은 섹션입니다. 초보부터 전문가까지 활용할 수 있는 유용한 학습 자료를 확인해보세요.
+
+### 1. **C 언어**
+- **모두의 코드 (C 언어)**: [modoocode.com](https://modoocode.com/category/C)
+- **코딩도장 (C 언어)**: [dojang.io](https://dojang.io/course)
+- **Microsoft (C 언어)**: [learn.microsoft.com](https://learn.microsoft.com/ko-kr/cpp/c-language)
+- **C Reference**: [cppreference.com](https://en.cppreference.com/w/c)
+
+### 2. **C++**
+- **모두의 코드 (C++)**: [modoocode.com](https://modoocode.com/category/C++)
+- **Microsoft (C++)**: [learn.microsoft.com](https://learn.microsoft.com/ko-kr/cpp/cpp-language)
+- **C++ Reference**: [cppreference.com](https://en.cppreference.com/w/cpp)
+- **Cplusplus.com**: [cplusplus.com](https://cplusplus.com)
 
 ---
 
