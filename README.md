@@ -258,7 +258,15 @@
 - **TypeScript 문서**: [typescriptlang.org](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - **타입스크립트 핸드북**: [joshua1988.github.io](https://joshua1988.github.io/ts/intro.html)
 
+### 7. **Go**
+- **Go 공식 문서**: [go.dev](https://go.dev/learn/)
+- **예제로 배우는 Go**: [golang.site](http://golang.site/)
 
+### 8. **Rust**
+- **Rust 튜토리얼**: [sarojaba.github.io](https://sarojaba.github.io/rust-doc-korean/doc/tutorial.html)
+- **Rust 공식 문서**: [rust-lang.org](https://prev.rust-lang.org/ko-KR/documentation.html)
+- **Rust**: [rust-book.cs.brown.edu](https://rust-book.cs.brown.edu/)
+- **Rust (번역)**: [rinthel.github.io](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 
 ---
 
