@@ -9,6 +9,8 @@
 4. [🔗 기타 유용한 도구](#-기타-유용한-도구)
 5. [📊 데이터 도구](#-데이터-도구)
 6. [📘 프로그래밍 언어 학습 도구](#-프로그래밍-언어-학습-도구)
+7. 
+
 
 ---
 
@@ -269,6 +271,22 @@
 - **Rust (번역)**: [rinthel.github.io](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 
 ---
+## ✔️ 온라인 저지 사이트
+
+**[해외]**
+
+- [Codeforces](https://codeforces.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [LeetCode](https://leetcode.com/)
+- [CodeChef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+**[국내]**
+
+- [Baekjoon Online Judge](https://www.acmicpc.net/)
+- [CodeUp](https://codeup.kr/)
+- [Programmers](https://programmers.co.kr/)
+- [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
 ## 🌟 기여 방법
 
