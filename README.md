@@ -9,7 +9,8 @@
 4. [🔗 기타 유용한 도구](#-기타-유용한-도구)
 5. [📊 데이터 도구](#-데이터-도구)
 6. [📘 프로그래밍 언어 학습 도구](#-프로그래밍-언어-학습-도구)
-7. [✔ 온라인 저지 사이트](#-온라인-저지-사이트)  
+7. [✔ 온라인 저지 사이트](#-온라인-저지-사이트)
+8. [🎥 AI 크리에이션 도구](#-ai-크리에이션-도구)
 
 
 ---
@@ -119,29 +120,6 @@
 - **링크**: [Haiper.ai 바로가기](https://haiper.ai/auth/signin)
 - **사용예시** : [Download The Great Gatsby Video](https://github.com/mk-isos/tools/blob/main/TheGreatGastby_mkisos.mp4)
 
-### 14. **Imagen 3**
-- **설명**: Imagen 3는 Google에서 제공하는 AI 기반 이미지 생성 툴로, 고품질의 텍스트 기반 이미지 생성을 지원합니다.
-- **링크**: [Imagen 3 바로가기](https://imagen3.google.com/)
-
-### 15. **Recraft AI**
-- **설명**: Recraft AI는 텍스트를 기반으로 창의적인 이미지를 생성할 수 있는 AI 도구로, 다양한 스타일을 제공합니다.
-- **링크**: [Recraft AI 바로가기](https://recraft.ai/)
-
-### 16. **Mystic**
-- **설명**: Mystic은 초현실적인 이미지를 생성하는 데 최적화된 AI 도구로, 독창적인 예술적 이미지를 제공합니다.
-- **링크**: [Mystic 바로가기](https://mystic.ai/)
-
-### 17. **Dreamnia**
-- **설명**: Dreamnia는 사용자의 아이디어를 기반으로 감성적이고 창의적인 이미지를 생성해주는 AI 도구입니다.
-- **링크**: [Dreamnia 바로가기](https://dreamnia.ai/)
-
-### 18. **Blender**
-- **설명**: Blender는 3D 모델링, 애니메이션 및 시네마틱 효과 제작에 사용되는 오픈 소스 도구로, 다양한 플러그인 및 AI 기반 기능을 지원합니다.
-- **링크**: [Blender 바로가기](https://www.blender.org/)
-
-### 19. **Unreal Engine**
-- **설명**: Unreal Engine은 고품질의 시네마틱 효과를 구현할 수 있는 게임 엔진으로, 영상 제작 및 3D 시뮬레이션에 강력한 기능을 제공합니다.
-- **링크**: [Unreal Engine 바로가기](https://www.unrealengine.com/)
 
 ---
 
@@ -225,22 +203,6 @@
 ### 12. **Vercel v0**
 - **설명**: Vercel에서 개발한 AI 기반의 UI 생성 도구로, 텍스트 설명 또는 이미지 기반으로 React, Vue, Svelte 등 다양한 프레임워크에 적합한 UI 컴포넌트를 자동으로 생성합니다. UI 프로토타입 제작 및 코드 통합 작업을 획기적으로 단축할 수 있습니다.
 - **링크**: [Vercel v0 바로가기](https://v0.dev/chat)
-
-### 13. **캡컷 (CapCut)**
-- **설명**: CapCut은 직관적인 UI를 제공하는 동영상 편집 도구로, 초보자도 쉽게 사용할 수 있으며 AI 기반의 효과 및 편집 기능을 지원합니다.
-- **링크**: [CapCut 바로가기](https://www.capcut.com/)
-
-### 14. **프리미어 프로 (Adobe Premiere Pro)**
-- **설명**: Adobe Premiere Pro는 전문적인 동영상 편집 소프트웨어로, AI 기반으로 효율적인 편집과 색 보정을 지원합니다.
-- **링크**: [Adobe Premiere Pro 바로가기](https://www.adobe.com/kr/products/premiere.html)
-
-### 15. **TOPAZ**
-- **설명**: TOPAZ는 동영상 업스케일링 및 디테일 향상을 위한 AI 기반 소프트웨어로, 낮은 해상도의 영상을 고화질로 변환할 수 있습니다.
-- **링크**: [TOPAZ 바로가기](https://www.topazlabs.com/)
-
-### 16. **SUNO AI**
-- **설명**: SUNO AI는 텍스트에서 음악을 생성할 수 있는 AI 도구로, 다양한 장르의 음악을 신속히 제작할 수 있습니다.
-- **링크**: [SUNO AI 바로가기](https://suno.ai/)
 
 ---
 
@@ -327,6 +289,92 @@
 - [Programmers](https://programmers.co.kr/)
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
+---
+## 🎥 AI 크리에이션 도구
+
+### AI 이미지 생성 도구
+1. **Midjourney**
+   - **설명**: 텍스트를 기반으로 창의적이고 세련된 이미지를 생성할 수 있는 AI 도구.
+   - **링크**: [Midjourney 바로가기](https://www.midjourney.com/)
+
+2. **ComfyUI**
+   - **설명**: Stable Diffusion 기반으로 이미지를 생성하고 편집할 수 있는 GUI 도구.
+   - **링크**: [ComfyUI 바로가기](https://github.com/comfyanonymous/ComfyUI)
+
+3. **Ideogram**
+   - **설명**: 텍스트 기반의 로고와 그래픽 디자인을 생성할 수 있는 AI 도구.
+   - **링크**: [Ideogram 바로가기](https://ideogram.ai/)
+
+4. **Imagen 3**
+   - **설명**: Google에서 제공하는 AI 기반 이미지 생성 툴로, 고품질 텍스트 기반 이미지 생성을 지원.
+   - **링크**: [Imagen 3 바로가기](https://imagen3.google.com/)
+
+5. **Recraft AI**
+   - **설명**: 다양한 스타일과 창의적인 이미지를 생성할 수 있는 AI 도구.
+   - **링크**: [Recraft AI 바로가기](https://recraft.ai/)
+
+6. **Mystic**
+   - **설명**: 초현실적이고 예술적인 이미지를 생성하는 데 최적화된 도구.
+   - **링크**: [Mystic 바로가기](https://mystic.ai/)
+
+7. **Dreamnia**
+   - **설명**: 감성적이고 창의적인 이미지를 제작할 수 있는 AI 도구.
+   - **링크**: [Dreamnia 바로가기](https://dreamnia.ai/)
+
+---
+
+### AI 영상 생성 도구
+1. **Runway GEN 3**
+   - **설명**: 간단한 텍스트 입력으로 고품질 영상을 생성할 수 있는 AI 도구.
+   - **링크**: [Runway GEN 3 바로가기](https://runwayml.com/)
+
+2. **Kling AI**
+   - **설명**: AI 기반으로 요구에 맞춘 동영상 제작을 지원.
+   - **링크**: [Kling AI 바로가기](https://kling.ai/)
+
+3. **Minimax**
+   - **설명**: 자동으로 짧은 클립이나 완성도 높은 영상을 생성할 수 있는 AI 도구.
+   - **링크**: [Minimax 바로가기](https://minimax.ai/)
+
+4. **SORA AI**
+   - **설명**: 고품질의 비디오 콘텐츠를 신속히 제작할 수 있는 AI 영상 생성 도구.
+   - **링크**: [SORA AI 바로가기](https://sora.ai/)
+
+---
+
+### AI 음악 생성 도구
+1. **SUNO AI**
+   - **설명**: 텍스트 입력으로 다양한 장르의 음악을 생성할 수 있는 AI 도구.
+   - **링크**: [SUNO AI 바로가기](https://suno.ai/)
+
+2. **Udio**
+   - **설명**: 음악 제작을 자동화하고 창작 과정을 혁신하는 AI 음악 생성 도구.
+   - **링크**: [Udio 바로가기](https://udio.com/)
+
+---
+
+### AI 영상 편집 및 업스케일 도구
+1. **캡컷 (CapCut)**
+   - **설명**: 직관적인 UI로 편리하게 동영상을 편집할 수 있는 도구.
+   - **링크**: [CapCut 바로가기](https://www.capcut.com/)
+
+2. **프리미어 프로 (Adobe Premiere Pro)**
+   - **설명**: 전문적인 동영상 편집과 AI 기반 색 보정 및 효과 제공.
+   - **링크**: [Adobe Premiere Pro 바로가기](https://www.adobe.com/kr/products/premiere.html)
+
+3. **TOPAZ**
+   - **설명**: 동영상 업스케일링 및 디테일 향상을 위한 AI 기반 소프트웨어.
+   - **링크**: [TOPAZ 바로가기](https://www.topazlabs.com/)
+
+4. **Blender**
+   - **설명**: 3D 모델링, 애니메이션 및 시네마틱 효과 제작을 지원하는 오픈 소스 도구.
+   - **링크**: [Blender 바로가기](https://www.blender.org/)
+
+5. **Unreal Engine**
+   - **설명**: 시네마틱 효과와 3D 시뮬레이션을 제작할 수 있는 게임 엔진.
+   - **링크**: [Unreal Engine 바로가기](https://www.unrealengine.com/)
+
+
 ## 🌟 기여 방법
 
 이 레포지토리에 추가하고 싶은 유용한 도구가 있거나, 개선해야 할 사항이 있다면 자유롭게 기여해주세요! 아래의 절차를 따라 Pull Request를 제출할 수 있습니다.
@@ -346,5 +394,3 @@
 - [Threads 공유하기](https://www.threads.net/?url=https://github.com/your-repo/tools)
 - 비활성화 [카카오톡 공유하기](https://sharer.kakao.com/talk/friends/picker/link?url=https://github.com/your-repo/tools)
 - 비활성화 [Slack 공유하기](https://slack.com/intl/en-kr/share?url=https://github.com/your-repo/tools)
-
-
