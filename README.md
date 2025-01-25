@@ -135,6 +135,14 @@
 - **설명**: Dreamnia는 사용자의 아이디어를 기반으로 감성적이고 창의적인 이미지를 생성해주는 AI 도구입니다.
 - **링크**: [Dreamnia 바로가기](https://dreamnia.ai/)
 
+### 18. **Blender**
+- **설명**: Blender는 3D 모델링, 애니메이션 및 시네마틱 효과 제작에 사용되는 오픈 소스 도구로, 다양한 플러그인 및 AI 기반 기능을 지원합니다.
+- **링크**: [Blender 바로가기](https://www.blender.org/)
+
+### 19. **Unreal Engine**
+- **설명**: Unreal Engine은 고품질의 시네마틱 효과를 구현할 수 있는 게임 엔진으로, 영상 제작 및 3D 시뮬레이션에 강력한 기능을 제공합니다.
+- **링크**: [Unreal Engine 바로가기](https://www.unrealengine.com/)
+
 ---
 
 ## 💻 개발 도구
