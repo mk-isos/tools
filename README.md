@@ -218,7 +218,21 @@
 - **설명**: Vercel에서 개발한 AI 기반의 UI 생성 도구로, 텍스트 설명 또는 이미지 기반으로 React, Vue, Svelte 등 다양한 프레임워크에 적합한 UI 컴포넌트를 자동으로 생성합니다. UI 프로토타입 제작 및 코드 통합 작업을 획기적으로 단축할 수 있습니다.
 - **링크**: [Vercel v0 바로가기](https://v0.dev/chat)
 
+### 13. **캡컷 (CapCut)**
+- **설명**: CapCut은 직관적인 UI를 제공하는 동영상 편집 도구로, 초보자도 쉽게 사용할 수 있으며 AI 기반의 효과 및 편집 기능을 지원합니다.
+- **링크**: [CapCut 바로가기](https://www.capcut.com/)
 
+### 14. **프리미어 프로 (Adobe Premiere Pro)**
+- **설명**: Adobe Premiere Pro는 전문적인 동영상 편집 소프트웨어로, AI 기반으로 효율적인 편집과 색 보정을 지원합니다.
+- **링크**: [Adobe Premiere Pro 바로가기](https://www.adobe.com/kr/products/premiere.html)
+
+### 15. **TOPAZ**
+- **설명**: TOPAZ는 동영상 업스케일링 및 디테일 향상을 위한 AI 기반 소프트웨어로, 낮은 해상도의 영상을 고화질로 변환할 수 있습니다.
+- **링크**: [TOPAZ 바로가기](https://www.topazlabs.com/)
+
+### 16. **SUNO AI**
+- **설명**: SUNO AI는 텍스트에서 음악을 생성할 수 있는 AI 도구로, 다양한 장르의 음악을 신속히 제작할 수 있습니다.
+- **링크**: [SUNO AI 바로가기](https://suno.ai/)
 
 ---
 
