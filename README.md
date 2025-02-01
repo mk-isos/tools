@@ -380,11 +380,3 @@
 
 ---
 
-## 📢 소셜 공유
-
-이 프로젝트가 유용하셨다면, **스타(⭐)**를 눌러주세요!
-- [X 공유하기](https://twitter.com/share?url=https://github.com/your-repo/tools)
-- [LinkedIn 공유하기](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/your-repo/tools)
-- [Instagram 공유하기](https://www.instagram.com/?url=https://github.com/your-repo/tools)
-- [Threads 공유하기](https://www.threads.net/?url=https://github.com/your-repo/tools)
-
