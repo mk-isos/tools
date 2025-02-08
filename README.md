@@ -145,7 +145,14 @@
 - **설명**: Replit은 클라우드 기반의 통합 개발 환경(IDE)으로, 다양한 프로그래밍 언어를 지원하며, 실시간 협업 및 코드 실행이 가능합니다. 초보자부터 전문가까지 사용하기 쉬운 UI를 제공하며, 빠르게 코드를 테스트하고 공유할 수 있습니다. 팀 프로젝트나 개인 학습에도 매우 유용한 플랫폼입니다. 이제는 AI도 함께하여 240919기준 Cursor의 시대는 가고 replit의 시대가 왔다고 할 정도입니다.
 - **링크**: [Replit 바로가기](https://replit.com/)
 
+### API 개발 및 테스트 도구
+> API를 개발하고 테스트할 때 필수적인 도구들입니다.
 
+- **Postman** (API 테스트 및 문서화): [Postman 바로가기](https://www.postman.com/)
+- **Swagger (OpenAPI)** (API 문서화 및 테스트): [Swagger 바로가기](https://swagger.io/)
+- **Hoppscotch** (오픈소스 API 클라이언트): [Hoppscotch 바로가기](https://hoppscotch.io/)
+- **Insomnia** (REST 및 GraphQL API 테스트 도구): [Insomnia 바로가기](https://insomnia.rest/)
+- **RapidAPI** (API 검색 및 활용): [RapidAPI 바로가기](https://rapidapi.com/)
 ---
 
 ## 🔗 기타 유용한 도구
