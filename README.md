@@ -279,6 +279,8 @@
 ### 6. **TypeScript**
 - **TypeScript 문서**: [typescriptlang.org](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - **타입스크립트 핸드북**: [joshua1988.github.io](https://joshua1988.github.io/ts/intro.html)
+- **TypeScript 온라인 실행기**:  
+  - [playcode.io](https://playcode.io/typescript)  
 
 ### 7. **Go**
 - **Go 공식 문서**: [go.dev](https://go.dev/learn/)
