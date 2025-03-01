@@ -281,6 +281,8 @@
 - **타입스크립트 핸드북**: [joshua1988.github.io](https://joshua1988.github.io/ts/intro.html)
 - **TypeScript 온라인 실행기**:  
   - [playcode.io](https://playcode.io/typescript)  
+  - [TypeScript Playground](https://www.typescriptlang.org/play)  
+  - [StackBlitz (TypeScript)](https://stackblitz.com/fork/typescript)
 
 ### 7. **Go**
 - **Go 공식 문서**: [go.dev](https://go.dev/learn/)
@@ -292,6 +294,14 @@
 - **Rust**: [rust-book.cs.brown.edu](https://rust-book.cs.brown.edu/)
 - **Rust (번역)**: [rinthel.github.io](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 
+### 9. **Java**
+- **Java 공식 문서**: [docs.oracle.com](https://docs.oracle.com/en/java/)
+- **코딩도장 (Java)**: [dojang.io](https://dojang.io/course/view.php?id=5)
+- **Java 튜토리얼**: [javatutorial.net](https://javatutorial.net/)
+- **Java 온라인 실행기**:  
+  - [JDoodle (Java)](https://www.jdoodle.com/execute-java-online)  
+  - [Replit (Java)](https://replit.com/languages/java10)  
+  - [OnlineGDB (Java)](https://www.onlinegdb.com/online_java_compiler)
 ---
 ## ✔ 온라인 저지 사이트
 
