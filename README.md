@@ -123,61 +123,43 @@
 
 ## 📘 프로그래밍 언어 학습 도구
 
-프로그래밍 언어 학습을 위한 다양한 사이트 및 자료를 모아놓은 섹션입니다. 초보부터 전문가까지 활용할 수 있는 유용한 학습 자료를 확인해보세요.
+| 프로그래밍 언어 | 학습 사이트 & 자료 | 링크 |
+|------|------------------|------|
+| **C 언어** | 모두의 코드 | [modoocode.com](https://modoocode.com/category/C) |
+|  | 코딩도장 | [dojang.io](https://dojang.io/course) |
+|  | Microsoft C 언어 문서 | [learn.microsoft.com](https://learn.microsoft.com/ko-kr/cpp/c-language) |
+|  | C Reference | [cppreference.com](https://en.cppreference.com/w/c) |
+| **C++** | 모두의 코드 | [modoocode.com](https://modoocode.com/category/C++) |
+|  | Microsoft C++ 문서 | [learn.microsoft.com](https://learn.microsoft.com/ko-kr/cpp/cpp-language) |
+|  | C++ Reference | [cppreference.com](https://en.cppreference.com/w/cpp) |
+|  | Cplusplus.com | [cplusplus.com](https://cplusplus.com) |
+| **C#** | 예제로 배우는 C# | [csharpstudy.com](https://www.csharpstudy.com/) |
+|  | Microsoft C# 문서 | [learn.microsoft.com](https://learn.microsoft.com/ko-kr/dotnet/csharp/) |
+| **Python** | 코딩도장 | [dojang.io](https://dojang.io/course/view.php?id=7) |
+|  | 점프 투 파이썬 | [wikidocs.net](https://wikidocs.net/book/1) |
+|  | 파이썬 자습서 | [docs.python.org](https://docs.python.org/ko/3.13/tutorial/index.html) |
+| **JavaScript** | VanillaJS | [vanilla-js.com](http://vanilla-js.com/) |
+|  | Modern JavaScript | [javascript.info](https://ko.javascript.info/) |
+|  | Mozilla JavaScript Guide | [developer.mozilla.org](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide) |
+|  | TCP School | [tcpschool.com](https://www.tcpschool.com/javascript/intro) |
+| **TypeScript** | TypeScript 공식 문서 | [typescriptlang.org](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) |
+|  | 타입스크립트 핸드북 | [joshua1988.github.io](https://joshua1988.github.io/ts/intro.html) |
+|  | TypeScript 온라인 실행기 (Playcode) | [playcode.io](https://playcode.io/typescript) |
+|  | TypeScript Playground | [TypeScript Playground](https://www.typescriptlang.org/play) |
+|  | StackBlitz (TypeScript) | [StackBlitz](https://stackblitz.com/fork/typescript) |
+| **Go** | Go 공식 문서 | [go.dev](https://go.dev/learn/) |
+|  | 예제로 배우는 Go | [golang.site](http://golang.site/) |
+| **Rust** | Rust 튜토리얼 (한글) | [sarojaba.github.io](https://sarojaba.github.io/rust-doc-korean/doc/tutorial.html) |
+|  | Rust 공식 문서 | [rust-lang.org](https://prev.rust-lang.org/ko-KR/documentation.html) |
+|  | Rust Programming | [rust-book.cs.brown.edu](https://rust-book.cs.brown.edu/) |
+|  | Rust (번역) | [rinthel.github.io](https://rinthel.github.io/rust-lang-book-ko/foreword.html) |
+| **Java** | Java 공식 문서 | [docs.oracle.com](https://docs.oracle.com/en/java/) |
+|  | 코딩도장 | [dojang.io](https://dojang.io/course/view.php?id=5) |
+|  | Java 튜토리얼 | [javatutorial.net](https://javatutorial.net/) |
+|  | Java 온라인 실행기 (JDoodle) | [JDoodle](https://www.jdoodle.com/execute-java-online) |
+|  | Java 온라인 실행기 (Replit) | [Replit](https://replit.com/languages/java10) |
+|  | Java 온라인 실행기 (OnlineGDB) | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
-### 1. **C 언어**
-- **모두의 코드 (C 언어)**: [modoocode.com](https://modoocode.com/category/C)
-- **코딩도장 (C 언어)**: [dojang.io](https://dojang.io/course)
-- **Microsoft (C 언어)**: [learn.microsoft.com](https://learn.microsoft.com/ko-kr/cpp/c-language)
-- **C Reference**: [cppreference.com](https://en.cppreference.com/w/c)
-
-### 2. **C++**
-- **모두의 코드 (C++)**: [modoocode.com](https://modoocode.com/category/C++)
-- **Microsoft (C++)**: [learn.microsoft.com](https://learn.microsoft.com/ko-kr/cpp/cpp-language)
-- **C++ Reference**: [cppreference.com](https://en.cppreference.com/w/cpp)
-- **Cplusplus.com**: [cplusplus.com](https://cplusplus.com)
-
-### 3. **C#**
-- **예제로 배우는 C#**: [csharpstudy.com](https://www.csharpstudy.com/)
-- **Microsoft (C#)**: [learn.microsoft.com](https://learn.microsoft.com/ko-kr/dotnet/csharp/)
-
-### 4. **Python**
-- **코딩도장 (Python)**: [dojang.io](https://dojang.io/course/view.php?id=7)
-- **점프 투 파이썬**: [wikidocs.net](https://wikidocs.net/book/1)
-- **파이썬 자습서**: [docs.python.org (https://docs.python.org/ko/3.13/tutorial/index.html)
-
-### 5. **JavaScript**
-- **VanillaJS**: [vanilla-js.com](http://vanilla-js.com/)
-- **Modern JavaScript**: [javascript.info](https://ko.javascript.info/)
-- **Mozilla JavaScript Guide**: [developer.mozilla.org](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide)
-- **TCP School (JavaScript)**: [tcpschool.com](https://www.tcpschool.com/javascript/intro)
-
-### 6. **TypeScript**
-- **TypeScript 문서**: [typescriptlang.org](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- **타입스크립트 핸드북**: [joshua1988.github.io](https://joshua1988.github.io/ts/intro.html)
-- **TypeScript 온라인 실행기**:  
-  - [playcode.io](https://playcode.io/typescript)  
-  - [TypeScript Playground](https://www.typescriptlang.org/play)  
-  - [StackBlitz (TypeScript)](https://stackblitz.com/fork/typescript)
-
-### 7. **Go**
-- **Go 공식 문서**: [go.dev](https://go.dev/learn/)
-- **예제로 배우는 Go**: [golang.site](http://golang.site/)
-
-### 8. **Rust**
-- **Rust 튜토리얼**: [sarojaba.github.io](https://sarojaba.github.io/rust-doc-korean/doc/tutorial.html)
-- **Rust 공식 문서**: [rust-lang.org](https://prev.rust-lang.org/ko-KR/documentation.html)
-- **Rust**: [rust-book.cs.brown.edu](https://rust-book.cs.brown.edu/)
-- **Rust (번역)**: [rinthel.github.io](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
-
-### 9. **Java**
-- **Java 공식 문서**: [docs.oracle.com](https://docs.oracle.com/en/java/)
-- **코딩도장 (Java)**: [dojang.io](https://dojang.io/course/view.php?id=5)
-- **Java 튜토리얼**: [javatutorial.net](https://javatutorial.net/)
-- **Java 온라인 실행기**:  
-  - [JDoodle (Java)](https://www.jdoodle.com/execute-java-online)  
-  - [Replit (Java)](https://replit.com/languages/java10)  
-  - [OnlineGDB (Java)](https://www.onlinegdb.com/online_java_compiler)
 ---
 ## ✔ 온라인 저지 사이트
 
