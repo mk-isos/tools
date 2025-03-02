@@ -181,86 +181,48 @@
 ---
 ## 🎥 AI 크리에이션 도구
 
-### AI 이미지 생성 도구
-1. **Midjourney**
-   - **설명**: 텍스트를 기반으로 창의적이고 세련된 이미지를 생성할 수 있는 AI 도구.
-   - **링크**: [Midjourney 바로가기](https://www.midjourney.com/)
+### 📌 AI 이미지 생성 도구
 
-2. **ComfyUI**
-   - **설명**: Stable Diffusion 기반으로 이미지를 생성하고 편집할 수 있는 GUI 도구.
-   - **링크**: [ComfyUI 바로가기](https://github.com/comfyanonymous/ComfyUI)
-
-3. **Ideogram**
-   - **설명**: 텍스트 기반의 로고와 그래픽 디자인을 생성할 수 있는 AI 도구.
-   - **링크**: [Ideogram 바로가기](https://ideogram.ai/)
-
-4. **Imagen 3**
-   - **설명**: Google에서 제공하는 AI 기반 이미지 생성 툴로, 고품질 텍스트 기반 이미지 생성을 지원.
-   - **링크**: [Imagen 3 바로가기](https://imagen3.google.com/)
-
-5. **Recraft AI**
-   - **설명**: 다양한 스타일과 창의적인 이미지를 생성할 수 있는 AI 도구.
-   - **링크**: [Recraft AI 바로가기](https://recraft.ai/)
-
-6. **Mystic**
-   - **설명**: 초현실적이고 예술적인 이미지를 생성하는 데 최적화된 도구.
-   - **링크**: [Mystic 바로가기](https://mystic.ai/)
-
-7. **Dreamnia**
-   - **설명**: 감성적이고 창의적인 이미지를 제작할 수 있는 AI 도구.
-   - **링크**: [Dreamnia 바로가기](https://dreamnia.ai/)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **Midjourney** | 텍스트를 기반으로 창의적이고 세련된 이미지를 생성할 수 있는 AI 도구 | [Midjourney 바로가기](https://www.midjourney.com/) |
+| **ComfyUI** | Stable Diffusion 기반으로 이미지를 생성하고 편집할 수 있는 GUI 도구 | [ComfyUI 바로가기](https://github.com/comfyanonymous/ComfyUI) |
+| **Ideogram** | 텍스트 기반의 로고와 그래픽 디자인을 생성할 수 있는 AI 도구 | [Ideogram 바로가기](https://ideogram.ai/) |
+| **Imagen 3** | Google에서 제공하는 AI 기반 이미지 생성 툴로, 고품질 텍스트 기반 이미지 생성 지원 | [Imagen 3 바로가기](https://imagen3.google.com/) |
+| **Recraft AI** | 다양한 스타일과 창의적인 이미지를 생성할 수 있는 AI 도구 | [Recraft AI 바로가기](https://recraft.ai/) |
+| **Mystic** | 초현실적이고 예술적인 이미지를 생성하는 데 최적화된 도구 | [Mystic 바로가기](https://mystic.ai/) |
+| **Dreamnia** | 감성적이고 창의적인 이미지를 제작할 수 있는 AI 도구 | [Dreamnia 바로가기](https://dreamnia.ai/) |
 
 ---
 
-### AI 영상 생성 도구
-1. **Runway GEN 3**
-   - **설명**: 간단한 텍스트 입력으로 고품질 영상을 생성할 수 있는 AI 도구.
-   - **링크**: [Runway GEN 3 바로가기](https://runwayml.com/)
+### 🎬 AI 영상 생성 도구
 
-2. **Kling AI**
-   - **설명**: AI 기반으로 요구에 맞춘 동영상 제작을 지원.
-   - **링크**: [Kling AI 바로가기](https://kling.ai/)
-
-3. **Minimax**
-   - **설명**: 자동으로 짧은 클립이나 완성도 높은 영상을 생성할 수 있는 AI 도구.
-   - **링크**: [Minimax 바로가기](https://minimax.ai/)
-
-4. **SORA AI**
-   - **설명**: 고품질의 비디오 콘텐츠를 신속히 제작할 수 있는 AI 영상 생성 도구.
-   - **링크**: [SORA AI 바로가기](https://sora.ai/)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **Runway GEN 3** | 간단한 텍스트 입력으로 고품질 영상을 생성할 수 있는 AI 도구 | [Runway GEN 3 바로가기](https://runwayml.com/) |
+| **Kling AI** | AI 기반으로 요구에 맞춘 동영상 제작 지원 | [Kling AI 바로가기](https://kling.ai/) |
+| **Minimax** | 자동으로 짧은 클립이나 완성도 높은 영상을 생성할 수 있는 AI 도구 | [Minimax 바로가기](https://minimax.ai/) |
+| **SORA AI** | 고품질의 비디오 콘텐츠를 신속히 제작할 수 있는 AI 영상 생성 도구 | [SORA AI 바로가기](https://sora.ai/) |
 
 ---
 
-### AI 음악 생성 도구
-1. **SUNO AI**
-   - **설명**: 텍스트 입력으로 다양한 장르의 음악을 생성할 수 있는 AI 도구.
-   - **링크**: [SUNO AI 바로가기](https://suno.ai/)
+### 🎵 AI 음악 생성 도구
 
-2. **Udio**
-   - **설명**: 음악 제작을 자동화하고 창작 과정을 혁신하는 AI 음악 생성 도구.
-   - **링크**: [Udio 바로가기](https://udio.com/)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **SUNO AI** | 텍스트 입력으로 다양한 장르의 음악을 생성할 수 있는 AI 도구 | [SUNO AI 바로가기](https://suno.ai/) |
+| **Udio** | 음악 제작을 자동화하고 창작 과정을 혁신하는 AI 음악 생성 도구 | [Udio 바로가기](https://udio.com/) |
 
 ---
 
-### AI 영상 편집 및 업스케일 도구
-1. **캡컷 (CapCut)**
-   - **설명**: 직관적인 UI로 편리하게 동영상을 편집할 수 있는 도구.
-   - **링크**: [CapCut 바로가기](https://www.capcut.com/)
+### 🎥 AI 영상 편집 및 업스케일 도구
 
-2. **프리미어 프로 (Adobe Premiere Pro)**
-   - **설명**: 전문적인 동영상 편집과 AI 기반 색 보정 및 효과 제공.
-   - **링크**: [Adobe Premiere Pro 바로가기](https://www.adobe.com/kr/products/premiere.html)
-
-3. **TOPAZ**
-   - **설명**: 동영상 업스케일링 및 디테일 향상을 위한 AI 기반 소프트웨어.
-   - **링크**: [TOPAZ 바로가기](https://www.topazlabs.com/)
-
-4. **Blender**
-   - **설명**: 3D 모델링, 애니메이션 및 시네마틱 효과 제작을 지원하는 오픈 소스 도구.
-   - **링크**: [Blender 바로가기](https://www.blender.org/)
-
-5. **Unreal Engine**
-   - **설명**: 시네마틱 효과와 3D 시뮬레이션을 제작할 수 있는 게임 엔진.
-   - **링크**: [Unreal Engine 바로가기](https://www.unrealengine.com/)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **캡컷 (CapCut)** | 직관적인 UI로 편리하게 동영상을 편집할 수 있는 도구 | [CapCut 바로가기](https://www.capcut.com/) |
+| **프리미어 프로 (Adobe Premiere Pro)** | 전문적인 동영상 편집과 AI 기반 색 보정 및 효과 제공 | [Adobe Premiere Pro 바로가기](https://www.adobe.com/kr/products/premiere.html) |
+| **TOPAZ** | 동영상 업스케일링 및 디테일 향상을 위한 AI 기반 소프트웨어 | [TOPAZ 바로가기](https://www.topazlabs.com/) |
+| **Blender** | 3D 모델링, 애니메이션 및 시네마틱 효과 제작을 지원하는 오픈 소스 도구 | [Blender 바로가기](https://www.blender.org/) |
+| **Unreal Engine** | 시네마틱 효과와 3D 시뮬레이션을 제작할 수 있는 게임 엔진 | [Unreal Engine 바로가기](https://www.unrealengine.com/) |
 
 
