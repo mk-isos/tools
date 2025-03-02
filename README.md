@@ -111,25 +111,13 @@
 
 ## 📊 데이터 도구
 
-### 1. **공공데이터 포털 (data.go.kr)**
-- **설명**: 공공데이터 포털은 대한민국 정부에서 제공하는 다양한 공공 데이터를 수집하고 제공하는 플랫폼입니다. 수많은 분야의 데이터를 API로 제공하며, 분석 및 연구, 개발 프로젝트에 유용하게 사용할 수 있습니다.
-- **링크**: [공공데이터 포털 바로가기](https://www.data.go.kr/)
-
-### 2. **국회 법률도서관 API**
-- **설명**: 국회 법률도서관에서 제공하는 법률 API로, 다양한 법률 정보를 프로그램을 통해 쉽게 검색하고 활용할 수 있습니다. 법률 및 판례 검색 등 법률 데이터를 제공하는 강력한 도구입니다.
-- **링크**: [국회 법률도서관 API 바로가기](https://law.nanet.go.kr/bbs/openapi/define.do?isMenu=Y)
-
-### 3. **ETRI AI 오픈 API**
-- **설명**: 한국전자통신연구원(ETRI)에서 제공하는 AI 오픈 API로, 음성인식, 번역, 자연어 처리 등 다양한 AI 기술을 API 형태로 제공하여 개발자들이 손쉽게 AI 기능을 구현할 수 있게 합니다.
-- **링크**: [ETRI AI 오픈 API 바로가기](https://aiopen.etri.re.kr/)
-
-### 4. **AI Hub**
-- **설명**: AI Hub는 다양한 인공지능 관련 데이터를 제공하는 플랫폼으로, 이미지, 텍스트, 음성, 비디오 데이터셋을 제공하여 AI 모델 훈련에 필요한 다양한 데이터를 쉽게 구할 수 있습니다.
-- **링크**: [AI Hub 바로가기](https://www.aihub.or.kr/)
-
-### 5. **오픈 API 코리아 (Open APIs Korea)**
-- **설명**: 한국어 사용자를 위한 다양한 오픈 API 모음으로, 공공 데이터 및 기타 유용한 API들을 정리하여 제공합니다. 한국 개발자들이 쉽게 접근하고 활용할 수 있도록 정리된 자료입니다.
-- **링크**: [Open APIs Korea 바로가기](https://github.com/dl0312/open-apis-korea?tab=readme-ov-file#%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **공공데이터 포털 (data.go.kr)** | 대한민국 정부가 제공하는 공공 데이터 API 플랫폼. 다양한 데이터 활용 가능 | [공공데이터 포털 바로가기](https://www.data.go.kr/) |
+| **국회 법률도서관 API** | 법률 및 판례 데이터를 검색하고 활용할 수 있는 법률 API 제공 | [국회 법률도서관 API 바로가기](https://law.nanet.go.kr/bbs/openapi/define.do?isMenu=Y) |
+| **ETRI AI 오픈 API** | 한국전자통신연구원 제공 AI API, 음성 인식, 번역, 자연어 처리 지원 | [ETRI AI 오픈 API 바로가기](https://aiopen.etri.re.kr/) |
+| **AI Hub** | AI 학습용 데이터셋 제공, 이미지, 텍스트, 음성, 비디오 데이터 지원 | [AI Hub 바로가기](https://www.aihub.or.kr/) |
+| **오픈 API 코리아 (Open APIs Korea)** | 한국어 기반 오픈 API 모음, 공공 데이터 및 다양한 API 활용 가능 | [Open APIs Korea 바로가기](https://github.com/dl0312/open-apis-korea?tab=readme-ov-file#%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90) |
 
 ---
 
