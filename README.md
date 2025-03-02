@@ -161,24 +161,7 @@
 |  | Java 온라인 실행기 (OnlineGDB) | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
 ---
-## ✔ 온라인 저지 사이트
 
-**[해외]**
-
-- [Codeforces](https://codeforces.com/)
-- [TopCoder](https://www.topcoder.com/)
-- [LeetCode](https://leetcode.com/)
-- [CodeChef](https://www.codechef.com/)
-- [HackerRank](https://www.hackerrank.com/)
-
-**[국내]**
-
-- [Baekjoon Online Judge](https://www.acmicpc.net/)
-- [CodeUp](https://codeup.kr/)
-- [Programmers](https://programmers.co.kr/)
-- [SW Expert Academy](https://swexpertacademy.com/main/main.do)
-
----
 ## 🎥 AI 크리에이션 도구
 
 ### 📌 AI 이미지 생성 도구
@@ -225,4 +208,23 @@
 | **Blender** | 3D 모델링, 애니메이션 및 시네마틱 효과 제작을 지원하는 오픈 소스 도구 | [Blender 바로가기](https://www.blender.org/) |
 | **Unreal Engine** | 시네마틱 효과와 3D 시뮬레이션을 제작할 수 있는 게임 엔진 | [Unreal Engine 바로가기](https://www.unrealengine.com/) |
 
+---
 
+## ✔ 온라인 저지 사이트
+
+**[해외]**
+
+- [Codeforces](https://codeforces.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [LeetCode](https://leetcode.com/)
+- [CodeChef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+**[국내]**
+
+- [Baekjoon Online Judge](https://www.acmicpc.net/)
+- [CodeUp](https://codeup.kr/)
+- [Programmers](https://programmers.co.kr/)
+- [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+
+---
