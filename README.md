@@ -60,7 +60,7 @@
 | **캔바 (Canva)** | PPT, 인포그래픽, 소셜 미디어 게시물 등 다양한 디자인 작업을 간편하게 제작 | [캔바 바로가기](https://www.canva.com/) |
 | **Excalidraw** | 간단한 스케치 및 다이어그램 제작이 가능한 웹 기반 도구 | [Excalidraw 바로가기](https://excalidraw.com/) |
 | **Haiper.ai** | AI 기반 자동화 도구, 검색, 데이터 분석, 문서 생성 등의 업무 효율화 지원 | [Haiper.ai 바로가기](https://haiper.ai/auth/signin) |
-| **사용예시** | The Great Gatsby Video 다운로드 | [Download The Great Gatsby Video](https://github.com/mk-isos/tools/blob/main/TheGreatGastby_mkisos.mp4) |
+| **Haiper.ai 사용예시** | The Great Gatsby Video 다운로드 | [Download The Great Gatsby Video](https://github.com/mk-isos/tools/blob/main/TheGreatGastby_mkisos.mp4) |
 
 
 
@@ -68,34 +68,23 @@
 
 ## 💻 개발 도구
 
-### 1. **Visual Studio Code**
-- **설명**: 오픈 소스 기반의 강력한 코드 에디터로, 자동 완성, 디버깅, 플러그인(익스텐션) 기능을 지원합니다.
-- **링크**: [Visual Studio Code 바로가기](https://code.visualstudio.com)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **Visual Studio Code** | 오픈 소스 기반의 강력한 코드 에디터, 자동 완성, 디버깅, 플러그인 지원 | [VS Code 바로가기](https://code.visualstudio.com) |
+| **JetBrains** | 다양한 프로그래밍 언어와 프레임워크를 지원하는 강력한 IDE (IntelliJ IDEA 포함) | [JetBrains 바로가기](https://www.jetbrains.com/idea/) |
+| **Eclipse Foundation** | 자바 개발자들에게 유용한 오픈 소스 IDE, 다양한 플러그인 지원 | [Eclipse 바로가기](https://www.eclipse.org/) |
+| **Dev-C++** | C/C++ 개발을 위한 무료 오픈 소스 통합 개발 환경(IDE) | [Dev-C++ 바로가기](https://sourceforge.net/projects/orwelldevcpp/) |
+| **Replit** | 클라우드 기반의 통합 개발 환경, 다양한 언어 지원 및 실시간 협업 가능 | [Replit 바로가기](https://replit.com/) |
 
-### 2. **JetBrains**
-- **설명**: 다양한 프로그래밍 언어와 프레임워크를 지원하는 강력한 IDE. IntelliJ IDEA를 포함한 여러 개발 도구가 제공됩니다.
-- **링크**: [JetBrains 바로가기](https://www.jetbrains.com/idea/)
+### 🛠 **API 개발 및 테스트 도구**
+| 도구 | 기능 | 링크 |
+|------|------|------|
+| **Postman** | API 테스트 및 문서화 도구 | [Postman 바로가기](https://www.postman.com/) |
+| **Swagger (OpenAPI)** | API 문서화 및 테스트를 위한 도구 | [Swagger 바로가기](https://swagger.io/) |
+| **Hoppscotch** | 오픈소스 API 클라이언트 | [Hoppscotch 바로가기](https://hoppscotch.io/) |
+| **Insomnia** | REST 및 GraphQL API 테스트 도구 | [Insomnia 바로가기](https://insomnia.rest/) |
+| **RapidAPI** | API 검색 및 활용 플랫폼 | [RapidAPI 바로가기](https://rapidapi.com/) |
 
-### 3. **Eclipse Foundation**
-- **설명**: 자바 개발자들에게 특히 유용한 오픈 소스 IDE로, 다양한 플러그인을 통해 확장 가능합니다.
-- **링크**: [Eclipse Foundation 바로가기](https://www.eclipse.org/)
-
-### 4. **Dev-C++**
-- **설명**: C/C++ 개발에 사용되는 무료 오픈 소스 통합 개발 환경(IDE). 간단한 C/C++ 프로젝트에 적합합니다.
-- **링크**: [Dev-C++ 바로가기](https://sourceforge.net/projects/orwelldevcpp/)
-
-### 5. **Replit**
-- **설명**: Replit은 클라우드 기반의 통합 개발 환경(IDE)으로, 다양한 프로그래밍 언어를 지원하며, 실시간 협업 및 코드 실행이 가능합니다. 초보자부터 전문가까지 사용하기 쉬운 UI를 제공하며, 빠르게 코드를 테스트하고 공유할 수 있습니다. 팀 프로젝트나 개인 학습에도 매우 유용한 플랫폼입니다. 이제는 AI도 함께하여 240919기준 Cursor의 시대는 가고 replit의 시대가 왔다고 할 정도입니다.
-- **링크**: [Replit 바로가기](https://replit.com/)
-
-### 6. API 개발 및 테스트 도구
-> API를 개발하고 테스트할 때 필수적인 도구들입니다.
-
-- **Postman** (API 테스트 및 문서화): [Postman 바로가기](https://www.postman.com/)
-- **Swagger (OpenAPI)** (API 문서화 및 테스트): [Swagger 바로가기](https://swagger.io/)
-- **Hoppscotch** (오픈소스 API 클라이언트): [Hoppscotch 바로가기](https://hoppscotch.io/)
-- **Insomnia** (REST 및 GraphQL API 테스트 도구): [Insomnia 바로가기](https://insomnia.rest/)
-- **RapidAPI** (API 검색 및 활용): [RapidAPI 바로가기](https://rapidapi.com/)
 ---
 
 ## 🔗 기타 유용한 도구
