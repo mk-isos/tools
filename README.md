@@ -17,46 +17,30 @@
 
 ## ⏳ 생산성 도구
 
-### 1. **Notion**
-- **설명**: 메모, 작업 관리, 데이터베이스 기능을 제공하는 올인원 생산성 도구. 프로젝트 관리 및 문서화에 적합합니다.
-- **링크**: [Notion 바로가기](https://www.notion.so)
+| 도구 | 설명 | 링크 |
+|------|------|------|
+| **Notion** | 메모, 작업 관리, 데이터베이스 기능을 제공하는 올인원 생산성 도구 | [Notion 바로가기](https://www.notion.so) |
+| **Trello** | 칸반 보드를 이용한 프로젝트 관리 도구, 팀 협업에 유용 | [Trello 바로가기](https://trello.com) |
+| **Jira** | 스프린트 관리, 이슈 트래킹, 애자일 개발 방식에 최적화된 프로젝트 협업 도구 | [Jira 바로가기](https://www.atlassian.com/software/jira) |
+| **클로바 노트 (Clova Note)** | 네이버 음성 인식 기반 노트 작성 도구, 회의록 및 아이디어 기록에 유용 | [클로바 노트 바로가기](https://clovanote.naver.com/) |
+| **다글로 (Daglo)** | AI 기반 음성 텍스트 변환 서비스, 회의록 작성 및 인터뷰 기록에 최적화 | [다글로 바로가기](https://daglo.ai/) |
+| **Obsidian** | 마크다운 기반의 노트 및 지식 관리 도구, 개인 위키 및 연구 노트 관리 가능 | [Obsidian 바로가기](https://obsidian.md/download) |
+| **Forest** | 스마트폰 사용을 자제하고 집중력을 유지하도록 돕는 시간 관리 앱 | [Forest 바로가기](https://www.forestapp.cc/) |
 
-### 2. **Trello**
-- **설명**: 칸반 보드를 이용한 프로젝트 관리 도구. 작업을 시각적으로 관리할 수 있어 팀 협업에 유용합니다.
-- **링크**: [Trello 바로가기](https://trello.com)
+### 📌 **3시간만 일하게 해주는 AI 툴**
+| 도구 | 기능 | 링크 |
+|------|------|------|
+| **PIKA** | AI 기반 영상 제작 | [PIKA 바로가기](https://www.pika.art/) |
+| **Claude** | AI 글쓰기 도구 | [Claude 바로가기](https://claude.ai/) |
+| **Heygen** | AI 음성 더빙 생성 | [Heygen 바로가기](https://www.heygen.com/) |
+| **Studio D-ID** | AI 아바타 생성 | [Studio D-ID 바로가기](https://www.studiod-id.com/) |
+| **Gamma** | AI 기반 PPT 자동 생성 | [Gamma 바로가기](https://gamma.app/) |
+| **Udio** | AI 음악 제작 도구 | [Udio 바로가기](https://www.udio.com/) |
+| **Ideogram** | AI 로고 디자인 생성 | [Ideogram 바로가기](https://ideogram.ai/) |
+| **MAKE** | 업무 자동화 AI 도구 | [MAKE 바로가기](https://www.make.com/) |
+| **Manychat** | 댓글 및 DM 자동화 도구 | [Manychat 바로가기](https://manychat.com/) |
 
-### 3. **Jira**
-- **설명**: 프로젝트 협업 및 관리 도구로, 스프린트 관리, 이슈 트래킹, 애자일 개발 방식에 최적화되어 있습니다.
-- **링크**: [Jira 바로가기](https://www.atlassian.com/software/jira)
 
-### 4. **클로바 노트 (Clova Note)**
-- **설명**: 클로바 노트는 네이버에서 제공하는 음성 인식 기반의 노트 작성 도구로, 회의나 인터뷰 등의 음성을 자동으로 텍스트로 변환해줍니다. 특히 회의록 작성이나 아이디어 기록에 유용하며, 한국어 인식 정확도가 높습니다.
-- **링크**: [클로바 노트 바로가기](https://clovanote.naver.com/)
-
-### 5. **다글로 (Daglo)**
-- **설명**: 다글로는 네이버에서 제공하는 AI 기반 음성 텍스트 변환 서비스로, 다양한 음성 데이터를 텍스트로 변환할 수 있습니다. 특히 회의록 작성, 인터뷰 기록 등 음성을 텍스트로 빠르게 전환해야 하는 작업에 최적화되어 있습니다.
-- **링크**: [다글로 바로가기](https://daglo.ai/)
-
-### 6. **Obsidian**
-- **설명**: Obsidian은 마크다운 기반의 노트 및 지식 관리 도구로, 사용자가 생각과 아이디어를 체계적으로 정리하고 연결할 수 있습니다. 노트 간의 관계를 시각적으로 보여주는 기능을 통해 개인 위키, 연구 노트 관리 등에 유용하게 사용할 수 있습니다.
-- **링크**: [Obsidian 바로가기](https://obsidian.md/download)
-
-### 7. **Forest**
-- **설명**: Forest는 사용자가 집중력을 유지할 수 있도록 돕는 시간 관리 앱입니다. 타이머를 설정하고, 설정한 시간 동안 스마트폰 사용을 자제하며 가상의 나무를 심을 수 있습니다.
-- **링크**: [Forest 바로가기](https://www.forestapp.cc/)
-
-### 8. **3시간만 일하게 해주는 AI 툴**
-**다양한 분야에서 생산성을 극대화할 수 있습니다.**
-
-- **영상 제작 - PIKA**: [PIKA 바로가기](https://www.pika.art/)
-- **글쓰기 - Claude**: [Claude 바로가기](https://claude.ai/)
-- **더빙 - Heygen**: [Heygen 바로가기](https://www.heygen.com/)
-- **아바타 생성 - Studio D-ID**: [Studio D-ID 바로가기](https://www.studiod-id.com/)
-- **PPT 제작 - Gamma**: [Gamma 바로가기](https://gamma.app/)
-- **음악 제작 - Udio**: [Udio 바로가기](https://www.udio.com/)
-- **로고 제작 - Ideogram**: [Ideogram 바로가기](https://ideogram.ai/)
-- **업무 자동화 - MAKE**: [MAKE 바로가기](https://www.make.com/)
-- **댓글, DM 자동화 - Manychat**: [Manychat 바로가기](https://manychat.com/)
 
 ---
 
