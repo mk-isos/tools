@@ -46,7 +46,7 @@
 | **Ideogram** | AI 로고 디자인 생성 | [Ideogram 바로가기](https://ideogram.ai/) |
 | **MAKE** | 업무 자동화 AI 도구 | [MAKE 바로가기](https://www.make.com/) |
 | **Manychat** | 댓글 및 DM 자동화 도구 | [Manychat 바로가기](https://manychat.com/) |
-
+| **QR Code AI** | AI 기반 QR코드 디자인 생성 | [QR Code AI 바로가기](https://app.qrcode-ai.com/) |
 
 ---
 
