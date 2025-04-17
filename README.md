@@ -112,6 +112,7 @@
 | **Vercel v0** | AI 기반 UI 컴포넌트 자동 생성 도구 | [Vercel v0 바로가기](https://v0.dev/chat) |
 | **ezgif** | 간편한 GIF 제작 및 편집 도구 | [ezgif 바로가기](https://ezgif.com/) |
 | **Velopers.kr** | 한국어 기술 블로그 및 개발 자료 공유 플랫폼 | [Velopers.kr 바로가기](https://www.velopers.kr/) |
+| **dbdiagram.io** | ERD 작성 및 공유를 위한 간편한 온라인 도구 | [dbdiagram 바로가기](https://dbdiagram.io/) |
 
 
 ---
