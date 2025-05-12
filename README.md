@@ -238,3 +238,16 @@
 
 ---
 
+## 🚀 혼자 개발자 필수 사이트
+
+| 사이트 | 기능 / 설명 | 링크 |
+|--------|-------------|------|
+| **[SensorTower](https://www.sensortower.com)** | 국가별 앱 순위, 매출, 스크린샷, 구독 모델 통계 확인. 아이디어 탐색에 강력 추천 | [바로가기](https://www.sensortower.com) |
+| **[Mobbin](https://mobbin.com)** | 다양한 앱의 온보딩/주요화면 UI 벤치마킹 자료 정리. 기획 시 필수 레퍼런스 | [바로가기](https://mobbin.com) |
+| **[RevenueCat](https://www.revenuecat.com)** | 인앱 구독 수익 관리 SaaS. iOS/Android 완벽 지원 | [바로가기](https://www.revenuecat.com) |
+| **[Superwall](https://www.superwall.com)** | Paywall UI A/B 테스트 및 구독 전환 최적화. 노코드로 빠르게 실험 가능 | [바로가기](https://www.superwall.com) |
+| **[Supabase](https://supabase.com)** | 오픈소스 Firebase 대체 BaaS. Auth, DB, Storage 등 빠르게 구성 가능 | [바로가기](https://supabase.com) |
+| **[AppsFlyer](https://www.appsflyer.com)** | 앱 설치 트래킹, LTV, ROAS 분석 등 마케팅 어트리뷰션에 특화 | [바로가기](https://www.appsflyer.com) |
+| **[Mixpanel](https://mixpanel.com)** | 사용자 행동 분석 도구. 퍼널, 리텐션, 세그먼트 분석 가능 | [바로가기](https://mixpanel.com) |
+| **[Reddit](https://www.reddit.com)** | 글로벌 개발자 인사이트 공유 커뮤니티. 눈팅만 해도 트렌드 파악 가능 | [바로가기](https://www.reddit.com) |
+
