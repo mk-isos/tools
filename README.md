@@ -13,8 +13,6 @@
 8. [✔ 온라인 저지 사이트](#-온라인-저지-사이트)
 9. [🚀 혼자 개발자 필수 사이트](#-혼자-개발자-필수-사이트)
 
-
-
 ---
 
 ## ⏳ 생산성 도구
@@ -33,7 +31,6 @@
 | **Interview Warmup** | 구글에서 개발한 AI 면접 연습 도구. 다양한 직무를 선택해 AI의 피드백을 받아가며 면접을 준비할 수 있음 | [Interview Warmup 바로가기](https://grow.google/certificates/interview-warmup/) |
 | **My Interview Practice** | 다양한 직무 인터뷰를 시뮬레이션하고 사용자의 답변을 분석해 개선 포인트를 알려주는 AI 면접 연습 플랫폼 | [My Interview Practice 바로가기](https://www.myinterviewpractice.com/) |
 | **Wix ADI** | 사용자의 입력 정보를 기반으로 맞춤형 포트폴리오 웹사이트를 자동으로 생성해주는 AI 기반 웹사이트 제작 도구 | [Wix ADI 바로가기](https://www.wix.com/adi) |
-
 
 ### 📌 **3시간만 일하게 해주는 AI 툴**
 | 도구 | 기능 | 링크 |
@@ -69,8 +66,6 @@
 | **Excalidraw** | 간단한 스케치 및 다이어그램 제작이 가능한 웹 기반 도구 | [Excalidraw 바로가기](https://excalidraw.com/) |
 | **Haiper.ai** | AI 기반 자동화 도구, 검색, 데이터 분석, 문서 생성 등의 업무 효율화 지원 | [Haiper.ai 바로가기](https://haiper.ai/auth/signin) |
 | **Haiper.ai 사용예시** | The Great Gatsby Video 다운로드 | [Download The Great Gatsby Video](https://github.com/mk-isos/tools/blob/main/TheGreatGastby_mkisos.mp4) |
-
-
 
 ---
 
@@ -114,7 +109,6 @@
 | **ezgif** | 간편한 GIF 제작 및 편집 도구 | [ezgif 바로가기](https://ezgif.com/) |
 | **Velopers.kr** | 한국어 기술 블로그 및 개발 자료 공유 플랫폼 | [Velopers.kr 바로가기](https://www.velopers.kr/) |
 | **dbdiagram.io** | ERD 작성 및 공유를 위한 간편한 온라인 도구 | [dbdiagram 바로가기](https://dbdiagram.io/) |
-
 
 ---
 
