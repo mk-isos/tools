@@ -89,6 +89,11 @@
 | **Insomnia** | REST 및 GraphQL API 테스트 도구 | [Insomnia 바로가기](https://insomnia.rest/) |
 | **RapidAPI** | API 검색 및 활용 플랫폼 | [RapidAPI 바로가기](https://rapidapi.com/) |
 
+### 🧪 **웹 및 모바일 테스트 도구**
+| 도구 | 기능 | 링크 |
+|------|------|------|
+| **Agent QA** | 자연어로 웹·모바일 테스트를 작성하고 실행하며, 실행 기억을 유지하고 인터페이스 변경에 맞춰 흐름을 조정하는 소스 공개형 QA 에이전트. FSL-1.1-ALv2이며 각 버전은 2년 후 Apache-2.0으로 전환 | [Agent QA 바로가기](https://github.com/vostride/agent-qa) |
+
 ---
 
 ## 🔗 기타 유용한 도구
@@ -330,6 +335,5 @@
 > 👉 *“기능은 단순해도 되고, 결과만 빨리 보고 싶을 때” 최적 조합*
 
 ---
-
 
 
